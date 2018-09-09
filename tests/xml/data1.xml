@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+    <book ISBN="10-000000-001">
+        <title>The Iliad and The Odyssey</title>
+        <price>12.95</price>
+        <comments rating="4,2">
+            <userComment> Best translation I've read. </userComment>
+            <userComment> I like other versions better. </userComment>
+        </comments>
+    </book>
+    <book ISBN="10-000000-999">
+        <title>Anthology of World Literature</title>
+        <price>24.95</price>
+        <comments rating="3,4">
+            <userComment> Needs more modern literature. </userComment>
+            <userComment> Excellent overview of world literature. </userComment>
+        </comments>
+    </book>
+    <book ISBN="11-000000-002">
+        <title>Computer Dictionary</title>
+        <price>24.95</price>
+        <comments rating="3">
+            <userComment> A valuable resource. </userComment>
+        </comments>
+    </book>
+    <book ISBN="11-000000-003">
+        <title>Cooking on a Budget</title>
+        <price>23.95</price>
+        <comments rating="4">
+            <userComment>Delicious!</userComment>
+        </comments>
+    </book>
+    <book ISBN="11-000000-004">
+        <title>Great Works of Art</title>
+        <price>29.95</price>
+    </book>
+</bookstore>
